@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+
+    <body>
+        <div class="container">
+
+            SzövegSzerkesztésMiértisfontos?            <!--nem jó megoldás!  -->
+            <p>SzövegSzerkesztésMiértisfontos?</p>
+            <span>SzövegSzerkesztésMiértisfontos?</span>
+
+            <h1>Címsor</h1><!--BELŐ CSAK 1 DB lehet  -->
+            <h2>Címsor</h2>
+            <h3>Címsor</h3>
+            <h4>Címsor</h4>
+            <h5>Címsor</h5>
+            <h6>Címsor</h6>
+
+            Mi a lorem ipszum ?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, voluptas?
+
+            Mire jó a lorem ipsum ?
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis, alias doloremque nesciunt,
+            doloribus at aliquam, repudiandae sunt eaque laboriosam fugiat suscipit dignissimos perspiciatis veniam.
+            Vero illo dignissimos maxime. Cupiditate aspernatur quod maxime, quidem nisi incidunt magni enim
+            voluptas tenetur quam sapiente nulla necessitatibus doloribus harum error nobis obcaecati esse
+            illum itaque ad. Quam fuga consectetur ut dicta eveniet accusantium cumque adipisci maxime odit
+            distinctio error, animi, iste necessitatibus nobis perspiciatis? Mollitia ratione possimus culpa
+            ea placeat reprehenderit vero similique, voluptatem, distinctio magni nesciunt veritatis nihil
+            alias temporibus, officia cupiditate explicabo! Beatae deserunt obcaecati adipisci asperiores
+            possimus velit quasi corporis! Dolor.
+
+            Hogyan lehet sórt törni ? <br>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis, alias doloremque nesciunt,<br>
+            doloribus at aliquam, repudiandae sunt eaque laboriosam fugiat suscipit dignissimos perspiciatis veniam.<br>
+            Vero illo dignissimos maxime. Cupiditate aspernatur quod maxime, quidem nisi incidunt magni enim<br>
+            voluptas tenetur quam sapiente nulla necessitatibus doloribus harum error nobis obcaecati esse<br>
+            illum itaque ad. Quam fuga consectetur ut dicta eveniet accusantium cumque adipisci maxime odit<br>
+            distinctio error, animi, iste necessitatibus nobis perspiciatis? Mollitia ratione possimus culpa<br>
+            ea placeat reprehenderit vero similique, voluptatem, distinctio magni nesciunt veritatis nihil<br>
+            alias temporibus, officia cupiditate explicabo! Beatae deserunt obcaecati adipisci asperiores<br>
+            possimus velit quasi corporis! Dolor.
+        </div>
+
+    </body>
+</body>
+
+</html>
