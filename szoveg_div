@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="">
+    <style>
+        
+        .article{
+            margin: 10px 30%;
+            
+            /*
+            margin: 1px; 
+            
+            margin: 1px 1px;
+            
+            margin: 1px 1px 1px 1px;
+            
+            margin-top: 1px;
+            margin-bottom: 1px;
+            margin-left: 1px;
+            margin-right: 1px;
+            */
+            
+            border: 1px solid black;
+            float: left;
+        }
+        .main{
+            float: left;
+            width: 400px;
+            margin: 10px;
+        }
+        .second{
+            float: left;
+            width: 250px;
+            margin: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="article">
+    <div class="main">
+        <h1>
+            Lorem ipsum dolor sit amet.
+        </h1>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat ipsa ullam, ad at cupiditate neque labore dolore, dolor distinctio dolorum earum.<br> Incidunt perferendis sint, repellendus eos voluptate, officiis illo alias nihil in, accusantium sunt maiores et quod saepe perspiciatis? Officia, cupiditate iusto, ipsum nesciunt tempora animi! Aliquam dicta maxime, delectus voluptas. Nobis, eum tempore ea voluptate quaerat, iste porro sed error voluptas impedit, excepturi officiis. Numquam mollitia quod fugiat facilis, praesentium necessitatibus harum, ipsam sapiente corporis iusto veritatis! Rem commodi sunt eum numquam consequatur ullam. Dignissimos tempore laudantium voluptatibus harum rerum, saepe blanditiis numquam quisquam cumque suscipit, aspernatur deleniti! Ullam totam fugit aspernatur esse eveniet veritatis odit ea, porro, explicabo quos pariatur animi, quod quas, enim vero delectus voluptate labore magnam dolorum perspiciatis deserunt mollitia. Eligendi mollitia placeat excepturi dolore, cupiditate et harum. Aperiam dolorum voluptas nemo, illo eaque quam porro nam at! Totam at, dolorem corporis excepturi vel alias.
+        </p>
+    </div>
+    <div class="second">
+        <h2>
+            Lorem ipsum dolor sit amet.
+        </h2>
+        <span>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo dolores ullam blanditiis fugit nam reprehenderit ab voluptas, ut. Totam ad officia beatae porro eveniet laudantium, voluptas laborum autem iure accusamus ratione molestiae. Autem impedit deserunt nobis, laboriosam. Ex esse et fugit error nostrum nemo illo at dolore blanditiis iure ratione natus, cumque qui quae maxime, eveniet iste recusandae. Nam doloribus est dicta a magnam asperiores. Iure soluta repellat repellendus libero, corrupti aliquid? Quisquam quas dolor aspernatur nihil, minus eos magni eveniet quasi molestiae, non necessitatibus voluptates hic possimus accusamus in veritatis expedita ullam, molestias cumque pariatur. Amet est reprehenderit nobis perspiciatis vitae vero, voluptates minus corrupti ipsam, quam quae, non praesentium voluptatem hic eaque! Perferendis natus, fugiat exercitationem nesciunt veritatis nulla repudiandae inventore sunt, vel magnam saepe aliquam. Iure dolore doloremque, mollitia modi temporibus corporis maiores quo ad at amet deserunt itaque eligendi est voluptatem iusto, quod vero quis excepturi.
+        </span>
+    </div>    
+</div>
+
+</body>
+</html>
